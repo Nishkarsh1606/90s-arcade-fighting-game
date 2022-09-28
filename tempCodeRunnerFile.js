@@ -1,0 +1,6 @@
+const playButton = document.getElementById('play')
+// const resultDiv = document.getElementById('result')
+// const p1NameDiv = document.getElementById('p1Name')
+// const p2NameDiv = document.getElementById('p2Name')
+// const p1HealthDiv = document.getElementById('p1Health')
+// const p2HealthDiv = document.getElementById('p2Health')
